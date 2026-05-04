@@ -34,10 +34,10 @@ Disponible
 
 ##  À propos de moi
 
--  **Jedha AI School** — RNCP Niveau 6 Bac+4 (déc. 2025 – avr. 2026)
+-  **Jedha AI School** - RNCP Niveau 6 Bac+4 (déc. 2025 - avr. 2026)
 -  **6 ans d'expérience** en gestion de projets digitaux et design UX
 -  Profil hybride : **analyse de données + vision business + communication claire**
--  Paris, France
+-  Kayl, Luxembourg
 
 ---
 
