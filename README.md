@@ -1,9 +1,8 @@
 # Martial Bayom — Data Analyst & Data Scientist Junior
 
-En formation chez **Jedha AI School** (RNCP Niveau 6 — Bac+4, 525h)  
+Formation chez **Jedha AI School** (RNCP Niveau 6 — Bac+4, 525h)  
 Paris, Île-de-France  
-Disponible pour un **stage ou alternance dès avril 2026**
-
+Disponible 
 ---
 
 ##  Stack technique
