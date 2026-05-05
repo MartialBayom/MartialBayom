@@ -39,7 +39,7 @@ Formation chez **Jedha AI School** (RNCP Niveau 6 — Bac+4, 525h)
 
 ## 🏆 Projet phare
 
-### 🌍 [World Cup 2026 — Prédiction des résultats](https://github.com/MartialBayom/world-cup-2026-prediction)
+### 🌍 [World Cup 2026 - Prédiction des résultats](https://github.com/MartialBayom/world-cup-2026-prediction)
 Modèle de prédiction des résultats de la Coupe du Monde 2026 basé sur les statistiques historiques FIFA.  
 `Python` · `Scikit-learn` · `Pandas` · `Plotly`
 
@@ -47,10 +47,10 @@ Modèle de prédiction des résultats de la Coupe du Monde 2026 basé sur les st
 
 ## 👤 À propos de moi
 
-- 🎓 **Jedha AI School** — RNCP Niveau 6 Bac+4 (déc. 2025 – avr. 2026)
+- 🎓 **Jedha AI School** - RNCP Niveau 6 Bac+4 
 - 💼 **6 ans d'expérience** en gestion de projets digitaux, design UX et direction artistique
 - 🧠 Profil hybride : **analyse de données + vision business + communication visuelle**
-- 📍 Kayl, Luxembourg · Disponible pour alternance / stage en France
+- 📍 Kayl, Luxembourg 
 
 ---
 
