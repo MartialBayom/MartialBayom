@@ -25,15 +25,15 @@ Formation chez **Jedha AI School** (RNCP Niveau 6 — Bac+4, 525h)
 
 | Projet | Type | Stack |
 |--------|------|-------|
-| [🛒 Walmart — Prédiction des ventes](https://github.com/MartialBayom/walmart-sales-prediction) | ML Supervisé | Python · Scikit-learn · Random Forest |
-| [🎮 Steam/Ubisoft — Analyse Big Data](https://github.com/MartialBayom/steam-ubisoft-analysis) | Big Data | PySpark · Databricks · AWS S3 |
+| [🛒 Walmart - Prédiction des ventes](https://github.com/MartialBayom/walmart-sales-prediction) | ML Supervisé | Python · Scikit-learn · Random Forest |
+| [🎮 Steam/Ubisoft - Analyse Big Data](https://github.com/MartialBayom/steam-ubisoft-analysis) | Big Data | PySpark · Databricks · AWS S3 |
 | [🛶 Kayak — Recommandation destinations](https://github.com/MartialBayom/kayak-data-engineering) | Data Engineering | AWS S3 · RDS · PostgreSQL · Plotly |
-| [🏔️ The North Face — Recommandation NLP](https://github.com/MartialBayom/northface-nlp-recommender) | NLP | TF-IDF · DBSCAN · Cosine Similarity |
-| [🚕 Uber NYC — Zones à forte demande](https://github.com/MartialBayom/uber-nyc-clustering) | ML Non supervisé | KMeans · DBSCAN · Plotly |
-| [💘 Speed Dating — Facteurs de match](https://github.com/MartialBayom/speed-dating-analysis) | EDA / Stats | Pandas · Seaborn · SciPy |
-| [🕵️ AT&T — Détecteur de Spam](https://github.com/MartialBayom/spam-detector-att) | Deep Learning | PyTorch · Bi-LSTM · DistilBERT |
+| [🏔️ The North Face - Recommandation NLP](https://github.com/MartialBayom/northface-nlp-recommender) | NLP | TF-IDF · DBSCAN · Cosine Similarity |
+| [🚕 Uber NYC - Zones à forte demande](https://github.com/MartialBayom/uber-nyc-clustering) | ML Non supervisé | KMeans · DBSCAN · Plotly |
+| [💘 Speed Dating - Facteurs de match](https://github.com/MartialBayom/speed-dating-analysis) | EDA / Stats | Pandas · Seaborn · SciPy |
+| [🕵️ AT&T - Détecteur de Spam](https://github.com/MartialBayom/spam-detector-att) | Deep Learning | PyTorch · Bi-LSTM · DistilBERT |
 | [📈 Conversion Rate Challenge](https://github.com/MartialBayom/conversion-rate-challenge) | ML / Kaggle | Scikit-learn · Random Forest · F1-Score |
-| [🚗 Getaround — Analyse & Déploiement](https://github.com/MartialBayom/getaround-analysis) | Déploiement ML | FastAPI · Streamlit · MLflow |
+| [🚗 Getaround - Analyse & Déploiement](https://github.com/MartialBayom/getaround-analysis) | Déploiement ML | FastAPI · Streamlit · MLflow |
 
 ---
 
